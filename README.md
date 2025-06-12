@@ -16,7 +16,7 @@ Feel free to explore my repositories to see my contributions and group projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://www.svgrepo.com/show/331429/oracle.svg" width="40" alt="Oracle DB" />
-  <img src="https://www.svgrepo.com/show/331429/oracle.svg" width="40" alt="Oracle DB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Apache_Software_Foundation_Logo_%282016%29.svg" width="40" alt="Apache Derby" />
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
