@@ -26,5 +26,5 @@ Feel free to explore my repositories to see my contributions and group projects.
 
 ### 🤝 Let’s Connect  
 - 📧 [thembekayvonne140704@gmail.com](mailto:thembekayvonne140704@gmail.com)  
-- 🌐 Portfolio (coming soon)  
+- 🌐 [Portfolio]_(https://profilethembeka.netlify.app/)
 - 💼 [[LinkedIn](https://linkedin.com/in/thembeka-msimanga)]
