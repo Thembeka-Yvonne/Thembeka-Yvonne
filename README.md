@@ -1,7 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" align="right" style="border-radius: 50%;" />
 
 Hi! My name is **Thembeka Msimanga**, and I’m passionate about backend development and building efficient, scalable systems.  
-I specialize in crafting robust backend logic and managing databases to support modern, data-driven applications.
+I have a strong foundation in backend development, system design, and data-driven applications. I enjoy solving complex problems and creating scalable systems that support modern applications.
+I’ve worked with the Microsoft Power Platform (Power Apps, Power Automate, Power BI, and Dataverse) to design solutions that automate workflows, streamline processes, and improve business productivity.
 I’ve also contributed as a frontend developer in collaborative group projects — an experience that strengthened my understanding of full-stack workflows and sharpened my frontend development skills, all while continuing to deepen my backend expertise.
 Feel free to explore my repositories to see my contributions and group projects. I’m always open to collaboration and new opportunities to grow — don’t hesitate to connect!
 
